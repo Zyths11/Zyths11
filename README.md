@@ -1,0 +1,4 @@
+-Hewwo I am Zyths.
+-I am weird
+-I like to code discord.js bots
+-Add me on Discord `Zyths#0001`
